@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Aritra Ganguly</h1>
 <h3 align="center">AI & Machine Learning Enthusiast. Data Analyst Associate Certified.</h3>
-![image](https://github.com/user-attachments/assets/10f1f39c-596e-4b1a-a7b6-57451b2dc19f)
 
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Data Analytics**
